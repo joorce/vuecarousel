@@ -1,3 +1,3 @@
 # Vue carousel component
 
-[View demo](nonstop-robin.surge.sh)
+[View demo](https://nonstop-robin.surge.sh)
