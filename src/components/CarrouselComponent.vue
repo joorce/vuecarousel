@@ -103,8 +103,7 @@ export default {
   top: calc(55% - 36px);
   right: 8px;
   color: white;
-  /* bottom: 50%; */
-  /* z-index: 10; */
+  transition: all 0.3s ease
 }
 .icon-left {
   height: 36px;
@@ -112,14 +111,13 @@ export default {
   left: 8px;
   color: white;
   opacity: 0.85;
-  /* bottom: 50%; */
-  /* z-index: 10; */
+  transition: all 0.3s ease
 }
 .icon-left:hover {
-  color: red;
+  color: darkslategrey;
 }
 .icon-right:hover {
-  color: red;
+  color: darkslategrey;
 }
 </style>
 
