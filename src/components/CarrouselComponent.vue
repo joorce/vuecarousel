@@ -1,6 +1,6 @@
 <template>
   <div class="bg-white rounded-lg overflow-hidden shadow-lg border border-gray-200">
-    <div class="relative bg-red-600 pb-2/3">
+    <div class="relative bg-white pb-2/3">
       <img
         class="absolute w-full h-full object-cover object-bottom"
         :src="images[currentIndex].imageUrl"
